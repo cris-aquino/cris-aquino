@@ -3,7 +3,7 @@
 Meu nome é **Cristilane Aquino**
 
 Sou professora de matemática e estou ministrando a disciplina de Tecnologia e Robótica
--Estou fazendo cursos no [Alura](https;//allura.com.br)
+-Estou fazendo cursos no [Alura](https://allura.com.br)
 - Desenvolvi projetos no Scratch
 - Estou me desenvolvendo na linguagem JavaScript
 - Vou compartilhar aqui meus projeto desenvolvidos
